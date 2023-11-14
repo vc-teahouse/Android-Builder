@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Proton）",
+      "name": "Xiaomi10S（Proton）1",
       "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
       "branch": "lineage-20.0",
       "device": "thyme",
