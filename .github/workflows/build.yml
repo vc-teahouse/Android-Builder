@@ -421,4 +421,5 @@ jobs:
         with:
           tag_name: v${{ env.BUILD_DATE }}.${{ github.run_number }}
           files: "${{ env.ANYKERNEL3_FILE }}.zip"
+          body: "[Kernelname]:仅带ksu [Kernelname]-both:带ksu+LXC docker"
           generate_release_notes: true
