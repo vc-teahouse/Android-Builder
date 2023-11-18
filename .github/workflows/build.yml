@@ -400,6 +400,7 @@ jobs:
             fi
           fi
 
+          rm -rf AnyKernel3/.git* AnyKernel3/README.md
           cd AnyKernel3/
           zip -q -r "${{ env.ANYKERNEL3_FILE }}.zip" *
 
