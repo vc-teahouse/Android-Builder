@@ -27,6 +27,9 @@
   
  **Pure**([这个非官方的PE13](https://github.com/SimpleJony/device_xiaomi_phoenix/releases/tag/PEPlus)似乎用了这个内核)[From](https://github.com/PixelExperience/official_devices/issues/3155) 
 
+ ### Redmi K40 (alioth)
+**Realking**
+
  ### Redmi K60 / Poco F5 Pro (mondrian)
  **baalam**
 
@@ -37,15 +40,16 @@
   
  如果有非周日的releases，那可能是我给仓库更新了点什么并构建测试了(也有可能是ksu有新的稳定releases发布了) 
   
- # 使用的内核源码仓库链接
+ ## 使用的内核源码仓库链接
  ## Redmi K30 / PocoF2 (phoenix/phoenixin)
  [MIUI&Redcliff(来自于ksu的wiki)](https://github.com/SlackerState/android_kernel_xiaomi_sm6150) 
   
  [PixelExperience](https://github.com/PixelExperience-Devices/kernel_xiaomi_phoenix) 
   
- [EvolutionX's kernel(Alza)](https://github.com/jaymistry258/kernel_xiaomi_phoenix) 
-  
- [Paradox&Pure](https://github.com/Pzqqt/android_kernel_xiaomi_sm6150-1)
+ [Pure](https://github.com/Pzqqt/android_kernel_xiaomi_sm6150-1)
+
+ ## Redmi K40 (alioth)
+[Realking](https://github.com/luyanci/android_kernel_xiaomi_sm8475)
 
  ## Redmi K60 / Poco F5 Pro (mondrian)
  [Baalam](https://github.com/LowTension/android_kernel_xiaomi_sm8475)
