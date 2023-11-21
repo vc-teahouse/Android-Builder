@@ -2,7 +2,7 @@
     {
         "kernelSource": { 
             "name": "k60-baalam", 
-            "repo": "https://github.com/vc_teahouse/android_kernel_xiaomi_sm8475", 
+            "repo": "https://github.com/vc-teahouse/android_kernel_xiaomi_sm8475", 
             "branch": "staging", 
             "device": "mondrian", 
             "defconfig": "vendor/mondrian_defconfig_fix" 
