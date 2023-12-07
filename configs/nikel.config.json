@@ -5,7 +5,7 @@
             "repo": "https://github.com/SlackerState/android_kernel_xiaomi_sm6150",
             "branch": "redcliff",
             "device": "phoenix",
-            "defconfig": "phoenix_defconfig"
+            "defconfig": "nikel_defconfig"
           },
           "toolchains": [
           {
