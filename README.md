@@ -49,7 +49,7 @@
  [Pure](https://github.com/Pzqqt/android_kernel_xiaomi_sm6150-1)
 
  ## Redmi K40 (alioth)
-[Realking](https://github.com/luyanci/android_kernel_xiaomi_sm8475)
+[Realking](https://github.com/Rohail33/Realking_kernel_sm8250)
 
  ## Redmi K60 / Poco F5 Pro (mondrian)
  [Baalam](https://github.com/LowTension/android_kernel_xiaomi_sm8475)
