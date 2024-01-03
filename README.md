@@ -13,7 +13,7 @@
  ## 刷入方法 
  1.进入recovery（关机状态下电源+音量加） 
   
- 2.备份boot分区 (k30需额外备份dtbo分区)
+ 2.备份boot分区 (Redmi K30 /Redmi 8需额外备份dtbo分区)
   
  3.下载[内核](https://github.com/luyanci/Android-Builder/releases/latest) 
   
