@@ -385,6 +385,9 @@ jobs:
 
           if [ -e "${{ env.OUT_DIR }}/arch/${{ env.ARCH }}/boot/Image.gz-dtb" ]; then
             cp -f ${{ env.OUT_DIR }}/arch/${{ env.ARCH }}/boot/Image.gz-dtb ./AnyKernel3/
+          else
+            if [ -e "${{ env.OUT_DIR }}/arch/${{ env.ARCH }}/boot/Image" ]; then
+              cp -f ${{ env.OUT_DIR }}/arch/${{ env.ARCH }}/boot/Image ./AnyKernel3/
             fi
             if [ -e "${{ env.OUT_DIR }}/arch/${{ env.ARCH }}/boot/Image.gz" ]; then
               cp -f ${{ env.OUT_DIR }}/arch/${{ env.ARCH }}/boot/Image.gz ./AnyKernel3/
