@@ -36,7 +36,11 @@
           },
           "AnyKernel3": {
             "use": true,
-            "release": true
+            "release": true,
+            "custom": {
+              "repo": "https://github.com/luyanci/Ak3",
+              "branch": "hm8"
+              }
           },
           "enableKernelSU": true,
           "enableLXC": false
