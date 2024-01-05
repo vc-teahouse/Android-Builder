@@ -10,7 +10,7 @@
           "toolchains": [
           {
             "repo": "https://gitlab.com/Jprimero15/lolz_clang.git",
-            "branch": "backup",
+            "branch": "main",
             "name": "tools",
             "binaryEnv": [
                 "bin"
