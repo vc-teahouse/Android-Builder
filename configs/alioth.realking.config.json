@@ -35,7 +35,11 @@
           }, 
           "AnyKernel3": { 
             "use": true, 
-            "release": true
+            "release": true,
+            "custom": {
+              "repo": "https://github.com/luyanci/AnyKernel3",
+              "branch": "k40"
+            }
           },
           "enableKernelSU": true, 
           "enableLXC": false        

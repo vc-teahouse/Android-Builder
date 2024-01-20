@@ -35,7 +35,11 @@
           }, 
           "AnyKernel3": { 
             "use": true, 
-            "release": true
+            "release": true,
+            "custom": {
+              "repo": "https://github.com/luyanci/Ak3",
+              "branch": "k60"
+            }
           },
           "enableKernelSU": true, 
           "enableLXC": false        
