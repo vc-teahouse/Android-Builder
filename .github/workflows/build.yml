@@ -72,10 +72,15 @@ jobs:
       CCACHE_DIR: "${{ github.workspace }}/out"
     steps:
       # Set swap space
-      - name: 📐 Set swap to 10G
-        uses: pierotofy/set-swap-space@master
+      - name: 📐 Maximize build space & Set swap to 10G
+        uses: easimon/maximize-build-space@master
         with:
-          swap-size-gb: 10
+          swap-size-mb: 10240
+          remove-dotnet: 'true'
+          remove-android: 'true'
+          remove-haskell: 'true'
+          remove-codeql: 'true'
+          remove-docker-images: 'true'
 
       # This action checks-out your CONFIGSitory under $GITHUB_WORKSPACE, so your workflow can access it.
       - name: 😄 Checkout
