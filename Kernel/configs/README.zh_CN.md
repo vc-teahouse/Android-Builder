@@ -77,7 +77,7 @@
 
 ### 内核源码配置(kernelSource)
 
-```json
+```jsonc
 "kernelSource": {
   "name": "",       // 你喜欢的名称，无任何影响，一般设定为 设备名字+编译工具 链版本
   "repo": "",       // 内核源码的仓库地址
