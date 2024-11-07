@@ -1,8 +1,9 @@
+<div align="center"> 
+  
 # Android-Builder
  Automaticcaly build android kernel by github actions.
 
-<div align="center"> 
-  
+
 [原版仓库](https://github.com/DogdayAndroid/Android-Builder/)  [原版readme](https://github.com/luyanci/Android-Builder/blob/main/README_vanlia.md) 
   
  [![Build kernels](https://github.com/luyanci/Android-Builder/actions/workflows/build.yml/badge.svg)](https://github.com/luyanci/Android-Builder/actions/workflows/build.yml)  
