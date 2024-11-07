@@ -32,6 +32,7 @@
 
  ### Redmi K60 / Poco F5 Pro (mondrian)
  **baalam**
+ **EvolutionX**
 
  ### Redmi 8(olive)
  **LOLZ**
@@ -59,6 +60,7 @@
 
  ## Redmi K60 / Poco F5 Pro (mondrian)
  [Baalam](https://github.com/LowTension/android_kernel_xiaomi_sm8475)
+ [EvolutionX](https://github.com/Evolution-X-Devices/kernel_xiaomi_sm8475)
 
  ## Redmi 8(olive)
 [LOLZ](https://github.com/Jprimero15/lolz_kernel_redmi8)
