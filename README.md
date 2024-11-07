@@ -1,13 +1,13 @@
 # Android-Builder
  Automaticcaly build android kernel by github actions.
 
-<center> 
+<div align="center"> 
   
 [原版仓库](https://github.com/DogdayAndroid/Android-Builder/)  [原版readme](https://github.com/luyanci/Android-Builder/blob/main/README_vanlia.md) 
   
  [![Build kernels](https://github.com/luyanci/Android-Builder/actions/workflows/build.yml/badge.svg)](https://github.com/luyanci/Android-Builder/actions/workflows/build.yml)  
   
-</center> 
+</div> 
   
  ## 介绍 
  使用github Action构建安卓系统内核 支持kernelSU和LXC docker构建
