@@ -34,7 +34,7 @@
 
  ### Redmi K60 / Poco F5 Pro (mondrian)
  **baalam**
- **EvolutionX**
+ **EvolutionX** [Not Work]
 
  ### Redmi 8(olive)
  **LOLZ**
