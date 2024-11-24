@@ -1,4 +1,4 @@
-name: 
+name: Move
 
 on:
   workflow_dispatch:
@@ -10,4 +10,5 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           repository: vc-teahouse/Kernel-Builder
-          run-id: '9931668207'
+          run-id: '4'
+          name: 'Anykernel3(phoenix_ztc1997-MIUI-phoenix-r-oss)'
