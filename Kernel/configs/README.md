@@ -78,7 +78,7 @@ Each configuration template consists of the following parts:
 
 ### Kernel source code configuration (kernelSource)
 
-```json
+```jsonc
 "kernelSource": {
   "name": "", // The name you like has no effect. It is generally set to the device name + compilation tool chain version.
   "repo": "", // The warehouse address of the kernel source code
